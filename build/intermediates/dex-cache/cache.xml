@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5de8297347ec89839cb76b4354639ab88388fdec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7c5246ca781e1f6c2b7b0185363dab917226cc0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha9_2b5a9db70efff86a37e23eefea06c31996c78665/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_621eeeb4b26c59ba3e4d19ceac35b877feae07df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8fb6c372474b88cdaaf6075ec96599dbd2e11cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92a8b59a59bf6fda062df8f5fdb7c295a9f463fa">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_306cd1b38326aa2b328f7bc19769cea20f5fc102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ad392dfa300cc803d8acebc1a2e0ea13c2de9425/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_2d1194087551277d7eda158ebbb66a92317eb582/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.0_ad2385cbf2b0e2a6af640e433842f17139b8055b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_42cb8f828554091aeaf6eb28126ad782ba5f7a94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a2ba140fb56a793e1bdbdcdac63463546353f435/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_d03138cceefcf63bbbf3540a01bbe54d8a2c5010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha9_67c6af65d8b85fb278b992cafeec390ed5334d45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_df733386c5c33691d2547ec06d3b3390630fcf85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8f73ee147d8aa96402a1cc4a0c80f1c82ffbb23b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e6ec8dbef4d6fabb032848473faaffb19a54c904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b493059afd58b35d271b0437450d1cf56114746a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6c0e767c255866adffc8ead4d50ebc2920b12075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_c1e56f6fd5cd71bd2498869268039abd86f7c597/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.tsengvn/Typekit/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bbf90181fea46399a9e3d0f4326883a505f71952">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tsengvn-Typekit-1.0.0_9b388ba605dfbaff311b00b24d1fc99d535ff72a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_810ee6b847c50a5d90766c2e65e75eb96572cb90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0891bf13abe59a83f70e029e640bdae179980711/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6955f47bc32cb17f01d4def9478444bb0cb6c0c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5d68c47932c1239a61665814eed50d40bd29359a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_6147cc5187d5598cee7f720ab0da0ef2e9474d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_7a5e342392340302357da32ff187451c3e3046e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8e6f0d561c21d24ead8bf429ab5ec68a69716b1">
+        <dex dex="/Users/by/AndroidStudioProjects/WhatShouldIEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea23bf3197f07548c7dbc8fe9ecd5f25cb1e7c72/classes.dex" />
+    </item>
+
+</items>

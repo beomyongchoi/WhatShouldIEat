@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124818574827",
+    "firebase_url": "https://whatsouldieat.firebaseio.com",
+    "project_id": "whatsouldieat",
+    "storage_bucket": "whatsouldieat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124818574827:android:a4464387f308fc25",
+        "android_client_info": {
+          "package_name": "xyz.beomyong.whatshouldieat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124818574827-jtnpg8k4887teqm022acer1ehv5ihpcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.beomyong.whatshouldieat",
+            "certificate_hash": "6FE0825B5D16A4AB88DDF139C27DD847D8D6EC30"
+          }
+        },
+        {
+          "client_id": "124818574827-bqeqesnt165jppvqt5jf157dhbp22lhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkPb3vgItrirSDS6aRWWTNcGs9ZvFVe7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124818574827-bqeqesnt165jppvqt5jf157dhbp22lhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
