@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">WhatShouldIEat</string>
     <string name="title">뭐먹?</string>
+    <string name="email_hint">your@email.com</string>
+    <string name="password_hint">your secure password</string>
+    <string name="sign_in_button_label">Sign In</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="sign_up_error_message">Please make sure you enter an email address and password!</string>
+    <string name="sign_up_error_title">Error!</string>
+    <string name="sign_up_success">Account successfully created! You can now Login.</string>
+    <string name="sign_in_error_message">Please make sure you enter an email address and password!</string>
+    <string name="sign_in_error_title">Error!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_item">Add New Item</string>
+    <string name="action_logout">Logout</string>
 </resources>

@@ -11,6 +11,7 @@ import android.support.design.widget.Snackbar;
 import android.widget.Toast;
 
 import com.oooobang.library.OBFragmentActivity;
+import com.oooobang.library.OBLog;
 import com.tsengvn.typekit.TypekitContextWrapper;
 
 import xyz.beomyong.whatshouldieat.ui.MainActivity;
@@ -48,21 +49,13 @@ public class BaseFragmentActivity extends OBFragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        setSupportActionBar((Toolbar) findViewById(R.id.toolbar));
-//
-//
-////        getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
-////        getSupportActionBar().setCustomView(R.layout.actionbar_layout);
-////        getSupportActionBar().getCustomView().setElevation(0);
-//
-//        // Find the toolbar view inside the activity layout
-//        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-//        // Sets the Toolbar to act as the ActionBar for this Activity window.
-//        // Make sure the toolbar exists in the activity and is not null
-//        setSupportActionBar(toolbar);
-//
-//        TextView titleTextView = (TextView) findViewById(R.id.appbarTitle);
-//        titleTextView.setTypeface(Typeface.createFromAsset(getAssets(), "fonts/GodoM.otf"));
+        /*
+		 * 액티비티를 초기화 한다.
+		 */
+
+        //==================================================
+        OBLog.v(OBLog.TAG, "==========> " + getClass().getSimpleName() + " onCreate <");
+        //==================================================
 
         //Finish BroadcastReceiver 등록.
         registerFinishedReceiver();

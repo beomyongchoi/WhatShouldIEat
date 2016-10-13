@@ -18,8 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.SecondActivity"
-            android:screenOrientation="portrait"/>
+        <activity android:name=".ui.SignInActivity"/>
+        <activity android:name=".ui.SignUpActivity"/>
     </application>
 
 </manifest>
